@@ -1,3 +1,7 @@
+This has been submitted purely to have something submitted for the deadline. No need to look for any code to assess, will be submitting the actual project during the extension period. Thanks!
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome USER_NAME,
